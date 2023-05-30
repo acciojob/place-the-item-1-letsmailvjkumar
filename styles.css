@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.items{
+	background-color:green;
+	margin:10px;
+	height:50px;
+	width:50px;
+	
+	
+	
+}
